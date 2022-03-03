@@ -6,4 +6,4 @@
 >Aanvi, a satyr character for one of my friend's Dungeons and Dragons campaigns
 
 
-Link to second page: >https://thebookishfern.github.io/index2.md<
+Link to second page: https://thebookishfern.github.io/index2.md
